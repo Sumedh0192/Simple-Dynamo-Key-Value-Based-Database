@@ -17,7 +17,7 @@ This is a simplefied version of Amazon Dynamo to store key-value based data. It 
 * The application also alows concurrent query along with concurent data manipulation on multiple nodes in the system.
 
 ### Link to the Code files:
-https://github.com/Sumedh0192/Distributed-Systems/tree/master/SimpleDynamo/app/src/main/java/edu/buffalo/cse/cse486586/simpledynamo/
+https://github.com/Sumedh0192/Simple-Dynamo-Key-Value-Based-Database/blob/master/app/src/main/java/edu/buffalo/cse/cse486586/simpledynamo/
 
 ### Link to official project description:
-https://github.com/Sumedh0192/Distributed-Systems/blob/master/SimpleDynamo/PA%204%20Specification.pdf
+https://github.com/Sumedh0192/Simple-Dynamo-Key-Value-Based-Database/blob/master/PA%204%20Specification.pdf
